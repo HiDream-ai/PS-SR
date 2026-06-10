@@ -1,0 +1,2 @@
+from .wan_sr_base import WanVideoSRPipeline_base
+from .wan_sr_draft import WanVideoSRPipeline_draft

@@ -1,0 +1,15 @@
+torch==2.7.1
+torchvision==0.22.1
+numpy
+Pillow
+opencv-python
+imageio
+pyiqa==0.1.10
+tqdm
+einops>=0.7.0
+lpips>=0.1.4
+pandas>=2.0.0
+diffsynth==1.1.8
+diffusers==0.35.0
+transformers==4.53.3
+accelerate==1.9.0
