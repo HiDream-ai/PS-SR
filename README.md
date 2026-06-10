@@ -29,26 +29,26 @@ This repository provides the official implementation scripts for speculative sam
   <tbody>
     <tr>
       <td align="center">
-        <video src="assets/demo_1.mp4" controls muted loop width="420"></video>
+        <video src="https://github.com/user-attachments/assets/3206dcd9-80eb-4d21-ae2d-b1c590311d4c" controls autoplay loop></video>
       </td>
       <td align="center">
-        <video src="assets/demo_1_result.mp4" controls muted loop width="420"></video>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <video src="assets/demo_2.mp4" controls muted loop width="420"></video>
-      </td>
-      <td align="center">
-        <video src="assets/demo_2_result.mp4" controls muted loop width="420"></video>
+        <video src="https://github.com/user-attachments/assets/dbb35453-26a2-49fe-8abe-9c16695bdc49" controls muted loop width="420"></video>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <video src="assets/demo_3.mp4" controls muted loop width="420"></video>
+        <video src="https://github.com/user-attachments/assets/a978f529-4da4-456f-a5e6-5a83ecc67bc6" controls autoplay loop></video>
       </td>
       <td align="center">
-        <video src="assets/demo_3_result.mp4" controls muted loop width="420"></video>
+        <video src="https://github.com/user-attachments/assets/f2609d1c-4a16-440e-affa-332f948b9d69" controls autoplay loop></video>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <video src="https://github.com/user-attachments/assets/19ea0d12-e6e4-4abe-a659-d391a8a74b73" controls autoplay loop></video>
+      </td>
+      <td align="center">
+        <video src="https://github.com/user-attachments/assets/0f43601b-11d0-4b1c-93e8-3a8ed7f66299" controls autoplay loop></video>
       </td>
     </tr>
   </tbody>
