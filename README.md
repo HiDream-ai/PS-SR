@@ -32,7 +32,7 @@ This repository provides the official implementation scripts for speculative sam
         <video src="https://github.com/user-attachments/assets/3206dcd9-80eb-4d21-ae2d-b1c590311d4c" controls autoplay loop></video>
       </td>
       <td align="center">
-        <video src="https://github.com/user-attachments/assets/dbb35453-26a2-49fe-8abe-9c16695bdc49" controls muted loop width="420"></video>
+        <video src="https://github.com/user-attachments/assets/dbb35453-26a2-49fe-8abe-9c16695bdc49" controls autoplay loop></video>
       </td>
     </tr>
     <tr>
